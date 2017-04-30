@@ -1,0 +1,1034 @@
+[{
+      "synonyms": [
+        "classic-javascript",
+        "javascript-runtime",
+        "javascript-library",
+        "javascript-alert",
+        "javascript-dom",
+        "javascript-disabled",
+        "ecmascript",
+        "js",
+        ".js",
+        "javascript-execution",
+        "vanilla-javascript",
+        "javascript-module"
+      ],
+      "has_synonyms": true,
+      "count": 1375047,
+      "name": "javascript"
+    },
+    {
+      "synonyms": [
+        "java-se",
+        ".java",
+        "j2se",
+        "core-java",
+        "java-libraries",
+        "jdk",
+        "jre",
+        "oraclejdk"
+      ],
+      "has_synonyms": true,
+      "count": 1248964,
+      "name": "java"
+    },
+    {
+      "synonyms": [
+        "csharp",
+        "c#-language",
+        "c-sharp",
+        "c#.net",
+        "visual-c#",
+        ".cs-file"
+      ],
+      "has_synonyms": true,
+      "count": 1087256,
+      "name": "c#"
+    },
+    {
+      "synonyms": [
+        "php-oop",
+        "php-cli",
+        "php-date",
+        "php-frameworks",
+        "php5",
+        "php.ini",
+        "hypertext-preprocessor",
+        "php-fpm",
+        "php-mail",
+        "php-errors",
+        "php-functions",
+        "php-readfile",
+        "php-cgi",
+        "php-session",
+        "php-include",
+        "phtml"
+      ],
+      "has_synonyms": true,
+      "count": 1068454,
+      "name": "php"
+    },
+    {
+      "synonyms": [
+        "android-application",
+        "android-ui",
+        "android-api",
+        "android-device",
+        "android-mobile",
+        "android-sdk",
+        "android-framework"
+      ],
+      "has_synonyms": true,
+      "count": 979612,
+      "name": "android"
+    },
+    {
+      "synonyms": [
+        "jquery-core",
+        "jquery-callback",
+        "jquery-after",
+        "jquery-hasclass",
+        "toggleclass",
+        "removeclass",
+        "addclass",
+        "jquery-live"
+      ],
+      "has_synonyms": true,
+      "count": 835173,
+      "name": "jquery"
+    },
+    {
+      "synonyms": [
+        "python-shell",
+        "python-interpreter",
+        "pythonic"
+      ],
+      "has_synonyms": true,
+      "count": 741729,
+      "name": "python"
+    },
+    {
+      "synonyms": [
+        "div",
+        "divs",
+        "nested-divs",
+        "div-layouts",
+        "html-comments",
+        "span",
+        "html-attributes",
+        "html-tag"
+      ],
+      "has_synonyms": true,
+      "count": 647830,
+      "name": "html"
+    },
+    {
+      "synonyms": [
+        "cpp"
+      ],
+      "has_synonyms": true,
+      "count": 511333,
+      "name": "c++"
+    },
+    {
+      "synonyms": [
+        "iphone-os",
+        "apple-ios",
+        "ios-sdk"
+      ],
+      "has_synonyms": true,
+      "count": 504427,
+      "name": "ios"
+    },
+    {
+      "synonyms": [
+        "cascading-style-sheet",
+        "css-layout",
+        "css-attributes",
+        "css-background-image",
+        "box-model",
+        "css-display",
+        "css-centering",
+        "min-height",
+        "min-width",
+        "max-height",
+        "max-width",
+        "style.css-template-file",
+        "css-validation",
+        "css-line-height",
+        "css-overflow",
+        "font-weight",
+        "css-box-model",
+        "inline-block",
+        "alternate-stylesheets",
+        "css-height",
+        "css-classes",
+        "css2",
+        "css-columns",
+        "css-inheritance",
+        "css-borders",
+        "dynamic-css",
+        "css-font-weight",
+        "css-menu",
+        "css-reset"
+      ],
+      "has_synonyms": true,
+      "count": 465516,
+      "name": "css"
+    },
+    {
+      "synonyms": [
+        "mysql-query",
+        "my-sql",
+        "mysql-table",
+        "mysqld",
+        "mysqlclient",
+        "mysql-server",
+        "mysqldump"
+      ],
+      "has_synonyms": true,
+      "count": 460356,
+      "name": "mysql"
+    },
+    {
+      "synonyms": [
+        "select-statement",
+        "sqlselect",
+        "sql-select",
+        "sql-syntax",
+        "sql-statement",
+        "sql-query",
+        "sql-update"
+      ],
+      "has_synonyms": true,
+      "count": 384081,
+      "name": "sql"
+    },
+    {
+      "synonyms": [
+        "aspx",
+        "asp.net-website",
+        "asp-net",
+        "aspdotnet"
+      ],
+      "has_synonyms": true,
+      "count": 314267,
+      "name": "asp.net"
+    },
+    {
+      "synonyms": [
+        "objc"
+      ],
+      "has_synonyms": true,
+      "count": 275719,
+      "name": "objective-c"
+    },
+    {
+      "synonyms": [
+        "ror",
+        "rails"
+      ],
+      "has_synonyms": true,
+      "count": 272610,
+      "name": "ruby-on-rails"
+    },
+    {
+      "synonyms": [
+        "dot-net",
+        "dotnet",
+        ".net-framework"
+      ],
+      "has_synonyms": true,
+      "count": 251257,
+      "name": ".net"
+    },
+    {
+      "has_synonyms": false,
+      "count": 249138,
+      "name": "c"
+    },
+    {
+      "synonyms": [
+        "angular.js",
+        "angular1.x"
+      ],
+      "has_synonyms": true,
+      "count": 230034,
+      "name": "angularjs"
+    },
+    {
+      "synonyms": [
+        "bytearray",
+        "static-array",
+        "swift-array",
+        "javascript-array",
+        "char-array",
+        "jsonarray",
+        "mongodb-arrays",
+        "string-array",
+        "sub-arrays",
+        "character-arrays",
+        "array-of-objects",
+        "array"
+      ],
+      "has_synonyms": true,
+      "count": 222853,
+      "name": "arrays"
+    },
+    {
+      "synonyms": [
+        "iphone-development",
+        "iphone-sdk",
+        "iphone-programming",
+        "iphone-app",
+        "iphone-web",
+        "iphone-ios"
+      ],
+      "has_synonyms": true,
+      "count": 217254,
+      "name": "iphone"
+    },
+    {
+      "synonyms": [
+        "ms-sql-server",
+        "mssql",
+        "sql-srever"
+      ],
+      "has_synonyms": true,
+      "count": 198716,
+      "name": "sql-server"
+    },
+    {
+      "synonyms": [
+        "json-parsing",
+        "json-encode",
+        "json-decode",
+        "jsonobject"
+      ],
+      "has_synonyms": true,
+      "count": 195608,
+      "name": "json"
+    },
+    {
+      "synonyms": [
+        "rstats",
+        "r-language"
+      ],
+      "has_synonyms": true,
+      "count": 181138,
+      "name": "r"
+    },
+    {
+      "has_synonyms": false,
+      "count": 180642,
+      "name": "ruby"
+    },
+    {
+      "synonyms": [
+        "nodejs",
+        "io.js"
+      ],
+      "has_synonyms": true,
+      "count": 170737,
+      "name": "node.js"
+    },
+    {
+      "synonyms": [
+        ".ajax"
+      ],
+      "has_synonyms": true,
+      "count": 167955,
+      "name": "ajax"
+    },
+    {
+      "synonyms": [
+        "regexes",
+        "regexp",
+        "regular-expression",
+        "regular-expressions",
+        "regex-php",
+        "perl-regex",
+        "apache-regexp",
+        "perlre",
+        "regularexpression"
+      ],
+      "has_synonyms": true,
+      "count": 166528,
+      "name": "regex"
+    },
+    {
+      "synonyms": [
+        "xml-file"
+      ],
+      "has_synonyms": true,
+      "count": 156618,
+      "name": "xml"
+    },
+    {
+      "synonyms": [
+        "asp-mvc",
+        "aspnet-mvc",
+        "aspnet.mvc",
+        "asp.net.mvc",
+        "asp-net-mvc",
+        "asp.mvc",
+        "mvc.net"
+      ],
+      "has_synonyms": true,
+      "count": 154330,
+      "name": "asp.net-mvc"
+    },
+    {
+      "synonyms": [
+        "swift-language",
+        "swift-ios",
+        "swift1.2"
+      ],
+      "has_synonyms": true,
+      "count": 145461,
+      "name": "swift"
+    },
+    {
+      "has_synonyms": false,
+      "count": 145212,
+      "name": "linux"
+    },
+    {
+      "has_synonyms": false,
+      "count": 142150,
+      "name": "django"
+    },
+    {
+      "has_synonyms": false,
+      "count": 130128,
+      "name": "wpf"
+    },
+    {
+      "synonyms": [
+        "databases",
+        "db",
+        "database-structure",
+        "dbms"
+      ],
+      "has_synonyms": true,
+      "count": 127989,
+      "name": "database"
+    },
+    {
+      "synonyms": [
+        "workbook",
+        "ms-excel"
+      ],
+      "has_synonyms": true,
+      "count": 118926,
+      "name": "excel"
+    },
+    {
+      "synonyms": [
+        "xcode-ide"
+      ],
+      "has_synonyms": true,
+      "count": 113787,
+      "name": "xcode"
+    },
+    {
+      "synonyms": [
+        "wordpress-permission",
+        "wordpress-plugin-dev",
+        "wordpress-mu",
+        "wordpress-filter",
+        "wordpress-widget",
+        "wordpress-loop",
+        "wordpress-plugin",
+        "wpdb",
+        "wp-query",
+        "wordpress-theme-customize"
+      ],
+      "has_synonyms": true,
+      "count": 112464,
+      "name": "wordpress"
+    },
+    {
+      "synonyms": [
+        "str",
+        "string-manipulation",
+        "strings",
+        "empty-string"
+      ],
+      "has_synonyms": true,
+      "count": 112173,
+      "name": "string"
+    },
+    {
+      "synonyms": [
+        "vb",
+        "vbproj"
+      ],
+      "has_synonyms": true,
+      "count": 109780,
+      "name": "vb.net"
+    },
+    {
+      "synonyms": [
+        "spring-framework"
+      ],
+      "has_synonyms": true,
+      "count": 108916,
+      "name": "spring"
+    },
+    {
+      "synonyms": [
+        "windows-application",
+        "windows-programming"
+      ],
+      "has_synonyms": true,
+      "count": 108568,
+      "name": "windows"
+    },
+    {
+      "has_synonyms": false,
+      "count": 106210,
+      "name": "eclipse"
+    },
+    {
+      "synonyms": [
+        "xhtml5",
+        "time-tag"
+      ],
+      "has_synonyms": true,
+      "count": 102397,
+      "name": "html5"
+    },
+    {
+      "synonyms": [
+        "cross-threading",
+        "multi-threaded",
+        "threading",
+        "multithread",
+        "threads",
+        "thread"
+      ],
+      "has_synonyms": true,
+      "count": 96978,
+      "name": "multithreading"
+    },
+    {
+      "has_synonyms": false,
+      "count": 84630,
+      "name": "git"
+    },
+    {
+      "has_synonyms": false,
+      "count": 83263,
+      "name": "oracle"
+    },
+    {
+      "synonyms": [
+        "bash-script",
+        "bashrc",
+        ".bashrc",
+        "bash-variables",
+        "bash-alias"
+      ],
+      "has_synonyms": true,
+      "count": 83183,
+      "name": "bash"
+    },
+    {
+      "synonyms": [
+        "mongo",
+        "mongod"
+      ],
+      "has_synonyms": true,
+      "count": 81330,
+      "name": "mongodb"
+    },
+    {
+      "synonyms": [
+        "form"
+      ],
+      "has_synonyms": true,
+      "count": 81133,
+      "name": "forms"
+    },
+    {
+      "synonyms": [
+        "picture",
+        "pictures",
+        "img",
+        "images"
+      ],
+      "has_synonyms": true,
+      "count": 80032,
+      "name": "image"
+    },
+    {
+      "synonyms": [
+        "visual-basic-applications",
+        "vba-macros",
+        "macros-vba"
+      ],
+      "has_synonyms": true,
+      "count": 79923,
+      "name": "vba"
+    },
+    {
+      "has_synonyms": false,
+      "count": 79543,
+      "name": "twitter-bootstrap"
+    },
+    {
+      "synonyms": [
+        "facebook-sdk-ios",
+        "facebook-connect",
+        "facebook-api",
+        "facebook-application",
+        "facebook-sdk"
+      ],
+      "has_synonyms": true,
+      "count": 78514,
+      "name": "facebook"
+    },
+    {
+      "synonyms": [
+        "mac",
+        "macosx",
+        "macos"
+      ],
+      "has_synonyms": true,
+      "count": 77002,
+      "name": "osx"
+    },
+    {
+      "synonyms": [
+        "algorithm-design",
+        "algorithms"
+      ],
+      "has_synonyms": true,
+      "count": 75184,
+      "name": "algorithm"
+    },
+    {
+      "synonyms": [
+        "windows.forms",
+        "winform",
+        "window-form",
+        "windows-form",
+        "window-forms",
+        "windows-forms"
+      ],
+      "has_synonyms": true,
+      "count": 73749,
+      "name": "winforms"
+    },
+    {
+      "synonyms": [
+        "httpd"
+      ],
+      "has_synonyms": true,
+      "count": 71834,
+      "name": "apache"
+    },
+    {
+      "synonyms": [
+        "matlab-path",
+        "matlab-ide",
+        "matlab-toolbox",
+        "mlint",
+        "m-file"
+      ],
+      "has_synonyms": true,
+      "count": 71081,
+      "name": "matlab"
+    },
+    {
+      "synonyms": [
+        "faster",
+        "running-time",
+        "speed-up",
+        "efficiency",
+        "performance-issues",
+        "perfomance",
+        "performance-tuning",
+        "slow",
+        "fast",
+        "performance-comparison",
+        "speed",
+        "tuning",
+        "wcf-performance",
+        "linq-performance",
+        "jquery-performance",
+        "javascript-performance",
+        "android-performance",
+        "application-performance",
+        "slowness",
+        "performance-monitoring",
+        "performance-measurement",
+        "slow-load",
+        "code-efficiency"
+      ],
+      "has_synonyms": true,
+      "count": 69445,
+      "name": "performance"
+    },
+    {
+      "synonyms": [
+        "pgsql",
+        "postgres",
+        "sql-postgres"
+      ],
+      "has_synonyms": true,
+      "count": 68178,
+      "name": "postgresql"
+    },
+    {
+      "has_synonyms": false,
+      "count": 67622,
+      "name": "python-2.7"
+    },
+    {
+      "synonyms": [
+        "vs.net",
+        "msvs"
+      ],
+      "has_synonyms": true,
+      "count": 67559,
+      "name": "visual-studio"
+    },
+    {
+      "synonyms": [
+        "linq-entity-framework",
+        "ef",
+        "entity-framework-mapping"
+      ],
+      "has_synonyms": true,
+      "count": 66999,
+      "name": "entity-framework"
+    },
+    {
+      "synonyms": [
+        "java-swing",
+        "javax.swing"
+      ],
+      "has_synonyms": true,
+      "count": 66155,
+      "name": "swing"
+    },
+    {
+      "has_synonyms": false,
+      "count": 65321,
+      "name": "scala"
+    },
+    {
+      "synonyms": [
+        "lists",
+        "ilist"
+      ],
+      "has_synonyms": true,
+      "count": 63857,
+      "name": "list"
+    },
+    {
+      "synonyms": [
+        "language-integrated-query"
+      ],
+      "has_synonyms": true,
+      "count": 63568,
+      "name": "linq"
+    },
+    {
+      "synonyms": [
+        "css-border-image",
+        "css-border-radius",
+        "css-box-shadow",
+        "css-text-overflow",
+        "css-text-shadow"
+      ],
+      "has_synonyms": true,
+      "count": 63368,
+      "name": "css3"
+    },
+    {
+      "has_synonyms": false,
+      "count": 63170,
+      "name": "hibernate"
+    },
+    {
+      "synonyms": [
+        "excel-macro"
+      ],
+      "has_synonyms": true,
+      "count": 60520,
+      "name": "excel-vba"
+    },
+    {
+      "has_synonyms": false,
+      "count": 60468,
+      "name": "laravel"
+    },
+    {
+      "has_synonyms": false,
+      "count": 58160,
+      "name": "qt"
+    },
+    {
+      "synonyms": [
+        "python-3",
+        "py3k",
+        "python3k",
+        "python3"
+      ],
+      "has_synonyms": true,
+      "count": 57971,
+      "name": "python-3.x"
+    },
+    {
+      "synonyms": [
+        "htaccess"
+      ],
+      "has_synonyms": true,
+      "count": 57048,
+      "name": ".htaccess"
+    },
+    {
+      "synonyms": [
+        "functions",
+        "def"
+      ],
+      "has_synonyms": true,
+      "count": 56490,
+      "name": "function"
+    },
+    {
+      "has_synonyms": false,
+      "count": 55891,
+      "name": "perl"
+    },
+    {
+      "synonyms": [
+        "rails3",
+        "ror3"
+      ],
+      "has_synonyms": true,
+      "count": 55536,
+      "name": "ruby-on-rails-3"
+    },
+    {
+      "synonyms": [
+        "web-service"
+      ],
+      "has_synonyms": true,
+      "count": 55409,
+      "name": "web-services"
+    },
+    {
+      "synonyms": [
+        "sqllite",
+        "sqlitedatabase"
+      ],
+      "has_synonyms": true,
+      "count": 54977,
+      "name": "sqlite"
+    },
+    {
+      "synonyms": [
+        "shell-scripting",
+        "shell-command",
+        "shell-commands",
+        "shell-script",
+        "shellscript"
+      ],
+      "has_synonyms": true,
+      "count": 54768,
+      "name": "shell"
+    },
+    {
+      "synonyms": [
+        "restful-web-services",
+        "restful"
+      ],
+      "has_synonyms": true,
+      "count": 53787,
+      "name": "rest"
+    },
+    {
+      "synonyms": [
+        "codeigniter-routing",
+        "codeigniter-form-helper",
+        "codeigniter-validation",
+        "codeigniter-activerecord",
+        "codeigniter-pagination",
+        "codeigniter-url"
+      ],
+      "has_synonyms": true,
+      "count": 52749,
+      "name": "codeigniter"
+    },
+    {
+      "synonyms": [
+        "apis"
+      ],
+      "has_synonyms": true,
+      "count": 52719,
+      "name": "api"
+    },
+    {
+      "synonyms": [
+        "files"
+      ],
+      "has_synonyms": true,
+      "count": 52618,
+      "name": "file"
+    },
+    {
+      "synonyms": [
+        "mvn"
+      ],
+      "has_synonyms": true,
+      "count": 51802,
+      "name": "maven"
+    },
+    {
+      "has_synonyms": false,
+      "count": 51750,
+      "name": "cordova"
+    },
+    {
+      "synonyms": [
+        "uitableviewcell",
+        "uitableviewcellaccessory",
+        "uitableviewcellstylevalue",
+        "uitableviewstyle",
+        "uitableviewdatasource",
+        "uitableviewdelegate",
+        "uitableviewheader",
+        "uitableviewfooter",
+        "uitableview-section",
+        "uitableviewstylegrouped",
+        "uitableviewcontroller",
+        "uitable",
+        "uitableviewcelll"
+      ],
+      "has_synonyms": true,
+      "count": 51419,
+      "name": "uitableview"
+    },
+    {
+      "synonyms": [
+        "gmaps",
+        "google-maps-api"
+      ],
+      "has_synonyms": true,
+      "count": 51138,
+      "name": "google-maps"
+    },
+    {
+      "synonyms": [
+        "sql2008",
+        "mssql2008",
+        "ssms-2008"
+      ],
+      "has_synonyms": true,
+      "count": 49577,
+      "name": "sql-server-2008"
+    },
+    {
+      "synonyms": [
+        "symfony3",
+        "symfony2"
+      ],
+      "has_synonyms": true,
+      "count": 49106,
+      "name": "symfony"
+    },
+    {
+      "synonyms": [
+        "unit-test",
+        "unit-tests",
+        "unittest"
+      ],
+      "has_synonyms": true,
+      "count": 48854,
+      "name": "unit-testing"
+    },
+    {
+      "synonyms": [
+        "classes"
+      ],
+      "has_synonyms": true,
+      "count": 48343,
+      "name": "class"
+    },
+    {
+      "synonyms": [
+        "data-validation",
+        "validators",
+        "validate",
+        "validations",
+        "input-validation",
+        "form-validation",
+        "validator"
+      ],
+      "has_synonyms": true,
+      "count": 48288,
+      "name": "validation"
+    },
+    {
+      "synonyms": [
+        "angular2",
+        "angular4",
+        "angular4.x"
+      ],
+      "has_synonyms": true,
+      "count": 48206,
+      "name": "angular"
+    },
+    {
+      "synonyms": [
+        "wcf-service"
+      ],
+      "has_synonyms": true,
+      "count": 47187,
+      "name": "wcf"
+    },
+    {
+      "synonyms": [
+        "bsd-sockets",
+        "socket-programming",
+        "socket"
+      ],
+      "has_synonyms": true,
+      "count": 47110,
+      "name": "sockets"
+    },
+    {
+      "synonyms": [
+        "vs2010",
+        "visual-studio-2010-rtm",
+        "msvc10",
+        "vs2010-express",
+        "vsts2010"
+      ],
+      "has_synonyms": true,
+      "count": 46633,
+      "name": "visual-studio-2010"
+    },
+    {
+      "synonyms": [
+        "chrome"
+      ],
+      "has_synonyms": true,
+      "count": 46497,
+      "name": "google-chrome"
+    },
+    {
+      "synonyms": [
+        "looping",
+        "loop",
+        "iterate"
+      ],
+      "has_synonyms": true,
+      "count": 46258,
+      "name": "loops"
+    }
+  ]
